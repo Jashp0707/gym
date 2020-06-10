@@ -2,7 +2,7 @@ body{
     font-family: Metal Mania;
     margin: 0px;
     padding: 0px;
-    background: url('../bg1.jpg');
+    background: url('bg1.jpg');
 }
 /**            header left               **/
 .left{
